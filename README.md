@@ -1,4 +1,4 @@
-# 👋 Hi Everyone! 
+### 👋 Hi Everyone! 
 My name is Greg and you can read more about me here --> [My Introduction](https://gcosta20.github.io/intro.html)
 
 💞️ My goals here are to:
