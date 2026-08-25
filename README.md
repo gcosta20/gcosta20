@@ -1,12 +1,18 @@
-### 👋 Hi Everyone! 
-My name is Greg and you can read more about me here --> [My Introduction](https://gcosta20.github.io/intro.html)
+# Systems. Security. Software.
 
-💞️ My goals here are to:
-* Learn 
-* Create
-* Share
+I'm a **Systems & Security Engineer** with a background in **infrastructure, identity, endpoint management, cloud and automation**.
 
-<!---
-gcosta20/gcosta20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy solving complex technical problems and building practical solutions from **infrastructure and security automation to APIs, backend services, and integrations**.
+
+---
+
+## Areas of Interest
+
+`Systems & Infrastructure` · `Endpoint` · `Identity & Access` · `Cloud` · `Security` · `Automation` · `APIs` · `Backend`
+
+---
+
+## Currently
+
+Building, experimenting and learning across the technologies that interest me with a focus on **practical projects, automation and solving real-world problems**.
+
